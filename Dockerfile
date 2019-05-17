@@ -1,4 +1,4 @@
-FROM oryxprod/dotnetcore-1.0:20190514.2
+FROM oryxprod/dotnetcore-1.0:20190516.1
 LABEL maintainer="Azure App Services Container Images <appsvc-images@microsoft.com>"
 
 COPY bin.zip /tmp
